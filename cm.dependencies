@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "sriramprakhya/android_device_zuk_ham",
+    "target_path": "device/zuk/ham",
+    "revision": "cm-14.1" 
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_zuk",
+    "target_path": "vendor/zuk",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "Srijith2001/StarCity_ham",
+    "target_path": "kernel/cyanogen/msm8974",
+    "revision": "master"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
